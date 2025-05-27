@@ -51,7 +51,6 @@ I'm a passionate **Freelance Software Developer** focused on making Linux deskto
 
 ---
 
-<!-- GitHub Contribution Snake -->
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
