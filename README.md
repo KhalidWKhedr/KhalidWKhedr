@@ -1,7 +1,5 @@
 # 👋 Hi, I'm KhalidWKhedr
 
-I'm a passionate **Freelance Software Developer** focused on making Linux desktops more beautiful, productive, and efficient. I love building creative open-source solutions and custom UI/UX workflows with modern tools.
-
 ---
 
 ## 🛠️ Languages & Tools
