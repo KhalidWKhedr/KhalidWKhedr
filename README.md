@@ -30,7 +30,7 @@ I'm a passionate **Freelance Software Developer** focused on making Linux deskto
   Easily set and manage video wallpapers on Wayland with mpvpaper.
 
 - [**Ebay-Scalper**](https://github.com/KhalidWKhedr/Ebay-Scalper)  
-  OH MY PYTHON SCALPER!  
+  Ebay Scalper (Qt6)
   A Qt6 desktop app implementing DI & MVP architecture, with powerful utils and helpers for automated eBay item scalping. Integrates with the eBay API, supports scalability, and cross-references historical data for accurate, automated purchasing.
 
 ---
