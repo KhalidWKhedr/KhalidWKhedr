@@ -52,8 +52,6 @@ I'm a passionate **Freelance Software Developer** focused on making Linux deskto
 ---
 ### 🐍 Contribution Snake
 
-![snake svg](https://raw.githubusercontent.com/KhalidWKhedr/KhalidWKhedr/output/github-snake.svg)
-
 ![snake gif](https://raw.githubusercontent.com/KhalidWKhedr/KhalidWKhedr/output/ocean.gif)
 
 <!--
