@@ -50,6 +50,11 @@ I'm a passionate **Freelance Software Developer** focused on making Linux deskto
 ![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalidWKhedr&show_icons=true&theme=radical)
 
 ---
+### 🐍 Contribution Snake
+
+![snake svg](https://raw.githubusercontent.com/KhalidWKhedr/KhalidWKhedr/output/github-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/KhalidWKhedr/KhalidWKhedr/output/ocean.gif)
 
 <!--
 **KhalidWKhedr/KhalidWKhedr** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
