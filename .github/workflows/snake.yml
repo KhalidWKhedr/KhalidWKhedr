@@ -1,3 +1,6 @@
+permissions:
+  contents: write
+
 name: Generate Snake Game
 
 on:
@@ -13,9 +16,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg
+            dist/ocean.gif?color_snake=orange&color_dots=#2b4f81,#1e3a66,#152b4b,#0f1e33,#081426
+          palette: github-dark
 
       - name: Create output branch if not exists
         run: |
