@@ -1,5 +1,8 @@
 # 👋 Hi, I'm KhalidWKhedr
-
+I'm a passionate **Freelance Software Developer** focused on making Linux desktops more beautiful, productive, and efficient. I love building creative open-source solutions and custom UI/UX workflows with modern tools.
+- 💼 Freelance software developer
+- 🧑‍💻 Always learning, always building
+- 🌱 Focused on open-source and Linux desktop customization
 ---
 
 ## 🛠️ Languages & Tools
@@ -30,14 +33,6 @@
 - [**Ebay-Scalper**](https://github.com/KhalidWKhedr/Ebay-Scalper)  
   Ebay Scalper (Qt6)
   A Qt6 desktop app implementing DI & MVP architecture, with powerful utils and helpers for automated eBay item scalping. Integrates with the eBay API, supports scalability, and cross-references historical data for accurate, automated purchasing.
-
----
-
-## 👨‍💻 About Me
-
-- 💼 Freelance software developer
-- 🧑‍💻 Always learning, always building
-- 🌱 Focused on open-source and Linux desktop customization
 
 ---
 
