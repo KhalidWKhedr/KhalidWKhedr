@@ -38,7 +38,6 @@ I'm a passionate **Freelance Software Developer** focused on making Linux deskto
 
 ## 📫 Contact
 
-```html
 <div>
   <a href="mailto:khalid.w.khedr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
