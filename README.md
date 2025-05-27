@@ -52,7 +52,7 @@ I'm a passionate **Freelance Software Developer** focused on making Linux deskto
 ---
 ### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/KhalidWKhedr/KhalidWKhedr/output/ocean.gif)
+![snake svg](https://raw.githubusercontent.com/KhalidWKhedr/KhalidWKhedr/output/github-snake.svg)
 
 <!--
 **KhalidWKhedr/KhalidWKhedr** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
