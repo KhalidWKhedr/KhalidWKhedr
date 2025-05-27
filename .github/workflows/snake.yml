@@ -5,9 +5,6 @@ on:
     - cron: "0 0 * * *" # every day at midnight
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,6 +16,15 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Create output branch if not exists
+        run: |
+          git fetch origin
+          if ! git rev-parse --verify origin/output; then
+            git checkout --orphan output
+            git commit --allow-empty -m "Initialize output branch"
+            git push origin output
+          fi
 
       - name: Push to the output branch
         uses: peaceiris/actions-gh-pages@v3
